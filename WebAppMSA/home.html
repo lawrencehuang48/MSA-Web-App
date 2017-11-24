@@ -1,0 +1,66 @@
+﻿<html>
+<head>
+    <meta charset="utf-8" />
+    <title>MSA Bot</title>
+
+    <link href="style.css" rel="stylesheet" />
+
+    <script type="text/javascript">
+		function openChat() {
+			var frame = document.getElementById("chat-frame");
+			frame.classname = "";
+			var img = document.getElementById("chat-button");
+			img.className = "hide";
+		}
+
+		function closeChat(){
+			var frame = document.getElementById("chat-frame");
+			frame.className="hide";
+			var img = document.getElementById("chat-button");
+			img.className = "";
+		}
+    </script>
+</head>
+
+<body>
+    <div id="titleBlock">
+        <img src="res/images/msp_logo.png" id="logo />
+        <h1 id="heading">MSA Foodbot 2017</h1>
+    </div>
+
+    <div id="content">
+        <div id="left-content">
+            <p>
+                1. Ensure bot is on GitHub<br />
+                2. Create "Web App" on Azure<br />
+                3. Select "Deployment Options"<br />
+                4. Select "GitHub" as source<br />
+                5. You may need to do the authentification stuff<br />
+                6. Select your GitHub repo and a branch<br />
+                7. Show off the continuous deployment<br />
+                8. Press "ok"<br />
+                9. Go to https://ngrok.com/downloads<br />
+                10. Download correct version for you
+                11. Open bot emulator
+                12. Click 3 dots on top right<br />
+                13. "App Settings"<br />
+                14. Browse and select the downloaded "ngrok.exe"<br />
+                15. Copy URL to the Azure web app and add "/api/messages"<br />
+                16. Try It!
+            </p>
+        </div>
+        <div id="right-content">
+            <img src="res/images/vs.PNG" />
+            <img src="res/images/botframework.PNG" />
+        </div>
+    </div>
+
+    <div id="chat">
+        <img id="chat-button" src="res/images/chatico.png" onclick="openChat()" />
+        <div id="chat-frame" class="hide">
+            <iframe src='https://webchat.botframework.com/embed/lawh48bot?s=YOUR_SECRET_HERE'></iframe>
+        </div>
+    </div>
+
+</body>
+</html>
