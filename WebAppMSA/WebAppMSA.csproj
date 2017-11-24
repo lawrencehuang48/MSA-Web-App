@@ -75,8 +75,13 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="botframework.PNG" />
+    <Content Include="chatico.png" />
     <Content Include="index.html" />
+    <Content Include="minus.png" />
+    <Content Include="msp_logo.png" />
     <Content Include="StyleSheet1.css" />
+    <Content Include="vs.PNG" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
