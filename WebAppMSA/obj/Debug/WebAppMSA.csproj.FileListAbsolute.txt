@@ -1,0 +1,9 @@
+C:\Users\Lawrence\Desktop\WebAppMSA\WebAppMSA\bin\WebAppMSA.dll.config
+C:\Users\Lawrence\Desktop\WebAppMSA\WebAppMSA\bin\WebAppMSA.dll
+C:\Users\Lawrence\Desktop\WebAppMSA\WebAppMSA\bin\WebAppMSA.pdb
+C:\Users\Lawrence\Desktop\WebAppMSA\WebAppMSA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lawrence\Desktop\WebAppMSA\WebAppMSA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lawrence\Desktop\WebAppMSA\WebAppMSA\obj\Debug\WebAppMSA.csprojResolveAssemblyReference.cache
+C:\Users\Lawrence\Desktop\WebAppMSA\WebAppMSA\obj\Debug\WebAppMSA.csproj.CoreCompileInputs.cache
+C:\Users\Lawrence\Desktop\WebAppMSA\WebAppMSA\obj\Debug\WebAppMSA.dll
+C:\Users\Lawrence\Desktop\WebAppMSA\WebAppMSA\obj\Debug\WebAppMSA.pdb
